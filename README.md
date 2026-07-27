@@ -1,3 +1,6 @@
+
+**WORK IN PROGRESS**
+
 # SQL-baseball-stats-EDA
 
 -- changing column with a comma to normal column name for future
